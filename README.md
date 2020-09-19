@@ -1,2 +1,2 @@
 # pay
-thispage for pay money
+this page for pay money.
